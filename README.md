@@ -11,8 +11,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisroid&show_icons=true&locale=en&layout=compact&theme=onedark" alt="chrisroid" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisroid&layout=donut)](https://github.com/chrisroid/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisroid&show_icons=true&locale=en&theme=onedark" alt="chrisroid" /></p>
 
